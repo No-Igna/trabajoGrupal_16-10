@@ -6,7 +6,7 @@ Crea un componente Avatar que reciba como prop la URL de una imagen de perfil y 
 
 <script>
 export default {
-  name: 'Actividad3',
+  name: 'Avatar',
   props:{
     url:String,
     tamano:Number,
