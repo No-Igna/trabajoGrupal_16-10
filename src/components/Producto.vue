@@ -13,7 +13,7 @@ Crea un componente Producto que reciba el nombre y precio de un producto como pr
 
 <script>
 export default {
-  name: 'Actividad2',
+  name: 'Producto',
   props:{
     nombre: String,
     precio: Number,

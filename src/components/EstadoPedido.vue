@@ -6,7 +6,7 @@ DEBEN USAR Bootstrap Y subirlos a un repositorio -->
 
 <script>
 export default {
-  name: 'Actividad5',
+  name: 'EstadoPedido',
   data() {
     return {};
   }

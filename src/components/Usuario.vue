@@ -5,7 +5,7 @@ Crea un componente Usuario que reciba como prop un objeto con la información de
 
 <script>
 export default {
-  name: 'Actividad4',
+  name: 'Usuario',
   data() {
     return {};
   }
